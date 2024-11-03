@@ -1,0 +1,4 @@
+- src: git@github.com:debaj4life/ansible-cms-role.git
+  name: ansible-cms-role
+  scm: git
+  version: main

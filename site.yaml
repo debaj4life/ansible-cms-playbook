@@ -1,0 +1,4 @@
+---
+- hosts: cms_app
+  roles: 
+    - ansible-role-cms
